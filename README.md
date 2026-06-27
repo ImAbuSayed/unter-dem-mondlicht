@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/unter-dem-mondlicht/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Unter dem Mondlicht](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/unter-dem-mondlicht/) |
+| **Get License** | [Get License For Unter dem Mondlicht](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/unter-dem-mondlicht/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `d107c1f30035d3dffc307eef9588e675c0ce9ea1cf9e30718f0a79c6a9c6437a` |
 | **Timestamp** | June 28, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

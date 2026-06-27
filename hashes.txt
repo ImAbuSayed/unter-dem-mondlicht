@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Unter dem Mondlicht
+
+This log tracks the cryptographic history and versioning for the song **Unter dem Mondlicht** (unter-dem-mondlicht).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-28T01:00:54.709771 | `v1` | `d107c1f30035d3dffc307eef9588e675c0ce9ea1cf9e30718f0a79c6a9c6437a` | `ac58757d981192d2b52e8463bebde64068d778b893b9775610e7624cf999b0dd` | `2026-06-28_unter-dem-mondlicht-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
