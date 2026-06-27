@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/unter-dem-mondlicht/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Unter dem Mondlicht](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/unter-dem-mondlicht/) |
+| **Get License** | [Get a Licensing Quote for Unter dem Mondlicht](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/unter-dem-mondlicht/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Die City ist ruhig, doch wir beide sind wach
+> Dein Blick ist ein Laser, macht alle Blockaden schwach
+> Wir tauchen ein ins Mondlicht, kein Limit, kein Stopp
+> Ich will dich hautnah, dein Vibe bringt mich an den Top
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
